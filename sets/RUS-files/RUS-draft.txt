@@ -1,0 +1,664 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Magnetic Bulwark",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/20_Magnetic Bulwark.png"
+			}
+		},
+		{
+			"name": "Smuggler's Silence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/21_Smuggler's Silence.png"
+			}
+		},
+		{
+			"name": "Ashbrink Trapper",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/22_Ashbrink Trapper.png"
+			}
+		},
+		{
+			"name": "Glow-Scarred Urskov",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Bear Mutant Warrior",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/24_Glow-Scarred Urskov.png"
+			}
+		},
+		{
+			"name": "Judgewalker Paragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Dwarf Knight",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/25_Judgewalker Paragon.png"
+			}
+		},
+		{
+			"name": "Wreckage Sweeper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "27",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bachtigh.github.io/sets/RUS-files/img/27_Wreckage Sweeper_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/27_Wreckage Sweeper_front.png"
+			}
+		},
+		{
+			"name": "Hellgut Prowler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Wolf Mutant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/30_Hellgut Prowler.png"
+			}
+		},
+		{
+			"name": "Smoketown Fuel Master",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Lizard Artificer",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/29_Smoketown Fuel Master.png"
+			}
+		},
+		{
+			"name": "Ironclad Transport",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/33_Ironclad Transport.png"
+			}
+		},
+		{
+			"name": "Arkvault Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/34_Arkvault Warden.png"
+			}
+		},
+		{
+			"name": "Kabarach Sellsword",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect Mercenary",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/18_Kabarach Sellsword.png"
+			}
+		},
+		{
+			"name": "Galvanic Skimmer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/12_Galvanic Skimmer.png"
+			}
+		},
+		{
+			"name": "Siginar Outfitter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/2_Siginar Outfitter.png"
+			}
+		},
+		{
+			"name": "Scourgeborn Ranger",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Mutant Ranger",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/19_Scourgeborn Ranger.png"
+			}
+		},
+		{
+			"name": "Grimstead Harvest",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/17_Grimstead Harvest.png"
+			}
+		},
+		{
+			"name": "Scraphound's Cutter",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/44_Scraphound's Cutter.png"
+			}
+		},
+		{
+			"name": "Powerlev Hauler",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/40_Powerlev Hauler.png"
+			}
+		},
+		{
+			"name": "Contaminated Glowsuit",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/36_Contaminated Glowsuit.png"
+			}
+		},
+		{
+			"name": "Crawling Incinerator",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/37_Crawling Incinerator.png"
+			}
+		},
+		{
+			"name": "Refitted Runewalker",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/42_Refitted Runewalker.png"
+			}
+		},
+		{
+			"name": "Scav Buggy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "43",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bachtigh.github.io/sets/RUS-files/img/43_Scav Buggy_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/43_Scav Buggy_front.png"
+			}
+		},
+		{
+			"name": "Wreckage Reaction",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/3_Wreckage Reaction.png"
+			}
+		},
+		{
+			"name": "Plated Dunecycle",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/1_Plated Dunecycle.png"
+			}
+		},
+		{
+			"name": "Stillkeep Defenses",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/6_Stillkeep Defenses.png"
+			}
+		},
+		{
+			"name": "Catalyst Collector",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/4_Catalyst Collector.png"
+			}
+		},
+		{
+			"name": "Disruptor Network",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/5_Disruptor Network.png"
+			}
+		},
+		{
+			"name": "Weathered Runewing",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Golem Bird",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/7_Weathered Runewing.png"
+			}
+		},
+		{
+			"name": "Rotglow Burst",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/10_Rotglow Burst.png"
+			}
+		},
+		{
+			"name": "Rookery Enforcer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Assassin",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/9_Rookery Enforcer.png"
+			}
+		},
+		{
+			"name": "Deadzone Scrapper",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "38",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bachtigh.github.io/sets/RUS-files/img/38_Deadzone Scrapper_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/38_Deadzone Scrapper_front.png"
+			}
+		},
+		{
+			"name": "Blisterswine",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Boar Mutant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/11_Blisterswine.png"
+			}
+		},
+		{
+			"name": "Sandstorm Blast",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/14_Sandstorm Blast.png"
+			}
+		},
+		{
+			"name": "Makeshift Grenadier",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Hyena Artificer",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/13_Makeshift Grenadier.png"
+			}
+		},
+		{
+			"name": "Armor Bash",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/16_Armor Bash.png"
+			}
+		},
+		{
+			"name": "Aethonic Sentinel",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "35",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bachtigh.github.io/sets/RUS-files/img/35_Aethonic Sentinel_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/35_Aethonic Sentinel_front.png"
+			}
+		},
+		{
+			"name": "Reaver Siegewagon",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "41",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bachtigh.github.io/sets/RUS-files/img/41_Reaver Siegewagon_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/41_Reaver Siegewagon_front.png"
+			}
+		},
+		{
+			"name": "Aethonic Spill",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bachtigh.github.io/sets/RUS-files/img/15_Aethonic Spill_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/15_Aethonic Spill_front.png"
+			}
+		},
+		{
+			"name": "Ashbrink Hellkite",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Dragon Mutant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/28_Ashbrink Hellkite.png"
+			}
+		},
+		{
+			"name": "Rajko the Stormworn",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Bear Warrior",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/26_Rajko the Stormworn.png"
+			}
+		},
+		{
+			"name": "Mother Redgrin",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Hyena Rogue",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/23_Mother Redgrin.png"
+			}
+		},
+		{
+			"name": "Decima, Maverick Rider",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/32_Decima, Maverick Rider.png"
+			}
+		},
+		{
+			"name": "Lystreex, Rotglow Ascendant",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Insect Shaman",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/31_Lystreex, Rotglow Ascendant.png"
+			}
+		},
+		{
+			"name": "Shattersea Wreckage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "45",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bachtigh.github.io/sets/RUS-files/img/45_Shattersea Wreckage_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/45_Shattersea Wreckage_front.png"
+			}
+		},
+		{
+			"name": "Jet Scouter",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "39",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bachtigh.github.io/sets/RUS-files/img/39_Jet Scouter_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/39_Jet Scouter_front.png"
+			}
+		},
+		{
+			"name": "Fuel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Fuel",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/6_Fuel.png"
+			}
+		},
+		{
+			"name": "Zombie Mutant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie Mutant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/2_Zombie Mutant.png"
+			}
+		},
+		{
+			"name": "Crab",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Crab",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/1_Crab.png"
+			}
+		},
+		{
+			"name": "Drone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Drone",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/5_Drone.png"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/3_Warrior.png"
+			}
+		},
+		{
+			"name": "Pest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Pest",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/4_Pest.png"
+			}
+		},
+		{
+			"name": "Blighted Discovery",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://bachtigh.github.io/sets/RUS-files/img/8_Blighted Discovery.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Ashbrink Hellkite
+	2 Rajko the Stormworn
+	2 Mother Redgrin
+	2 Decima, Maverick Rider
+	2 Lystreex, Rotglow Ascendant
+	2 Shattersea Wreckage
+[uncommon(4)]
+	4 Magnetic Bulwark
+	4 Smuggler's Silence
+	4 Ashbrink Trapper
+	4 Glow-Scarred Urskov
+	4 Judgewalker Paragon
+	4 Wreckage Sweeper
+	4 Hellgut Prowler
+	4 Smoketown Fuel Master
+	4 Ironclad Transport
+	4 Arkvault Warden
+	4 Scav Buggy
+	4 Aethonic Spill
+[common(7)]
+	8 Kabarach Sellsword
+	8 Galvanic Skimmer
+	8 Siginar Outfitter
+	8 Scourgeborn Ranger
+	8 Grimstead Harvest
+	8 Scraphound's Cutter
+	8 Powerlev Hauler
+	8 Contaminated Glowsuit
+	8 Crawling Incinerator
+	8 Refitted Runewalker
+	8 Wreckage Reaction
+	8 Plated Dunecycle
+	8 Stillkeep Defenses
+	8 Catalyst Collector
+	8 Disruptor Network
+	8 Weathered Runewing
+	8 Rotglow Burst
+	8 Rookery Enforcer
+	8 Deadzone Scrapper
+	8 Blisterswine
+	8 Sandstorm Blast
+	8 Makeshift Grenadier
+	8 Armor Bash
+	8 Aethonic Sentinel
+	8 Reaver Siegewagon
+	8 Jet Scouter
+	8 Blighted Discovery
+[wildcard(2)]
+	15 Magnetic Bulwark
+	15 Smuggler's Silence
+	15 Ashbrink Trapper
+	15 Glow-Scarred Urskov
+	15 Judgewalker Paragon
+	15 Wreckage Sweeper
+	15 Hellgut Prowler
+	15 Smoketown Fuel Master
+	15 Ironclad Transport
+	15 Arkvault Warden
+	6 Kabarach Sellsword
+	6 Galvanic Skimmer
+	6 Siginar Outfitter
+	6 Scourgeborn Ranger
+	6 Grimstead Harvest
+	6 Scraphound's Cutter
+	6 Powerlev Hauler
+	6 Contaminated Glowsuit
+	6 Crawling Incinerator
+	6 Refitted Runewalker
+	15 Scav Buggy
+	6 Wreckage Reaction
+	6 Plated Dunecycle
+	6 Stillkeep Defenses
+	6 Catalyst Collector
+	6 Disruptor Network
+	6 Weathered Runewing
+	6 Rotglow Burst
+	6 Rookery Enforcer
+	6 Deadzone Scrapper
+	6 Blisterswine
+	6 Sandstorm Blast
+	6 Makeshift Grenadier
+	6 Armor Bash
+	6 Aethonic Sentinel
+	6 Reaver Siegewagon
+	15 Aethonic Spill
+	7 Ashbrink Hellkite
+	7 Rajko the Stormworn
+	7 Mother Redgrin
+	7 Decima, Maverick Rider
+	7 Lystreex, Rotglow Ascendant
+	7 Shattersea Wreckage
+	6 Jet Scouter
+	6 Blighted Discovery
